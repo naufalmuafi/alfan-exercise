@@ -1,0 +1,26 @@
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "type": "shell",
+//             "label": "g++ build active file",
+//             "command": "g++",
+//             "args": [
+//                 "-g",
+//                 "D:\\Users\\Muafi\\Documents\\NAUFAL MU'AFI\\Universitas Gadjah Mada\\Alfan 2023\\bismillah_research\\oop-application\\exercise\\simple-case\\main.cpp",
+//                 "-o",
+//                 "D:\\Users\\Muafi\\Documents\\NAUFAL MU'AFI\\Universitas Gadjah Mada\\Alfan 2023\\bismillah_research\\oop-application\\exercise\\simple-case\\$main.exe"
+//             ],
+//             "options": {
+//                 "cwd": "D:\\Users\\Muafi\\Documents\\NAUFAL MU'AFI\\Universitas Gadjah Mada\\Alfan 2023\\bismillah_research\\oop-application\\exercise\\simple-case\\main.cpp"
+//             },
+//             "problemMatcher": [
+//                 "$gcc"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             }
+//         }
+//     ]
+// }
